@@ -1,5 +1,3 @@
-#Personal Portfolio
-
 Welcome to my personal portfolio! This project is a web-based showcase of my work, skills, and educational background.
 
 ->Built with:
