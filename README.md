@@ -1,6 +1,7 @@
 Welcome to my personal portfolio! This project is a web-based showcase of my work, skills, and educational background.
 
 ->Built with:
+
 HTML for structure
 CSS for styling and layout
 JavaScript for interactivity and functionality
